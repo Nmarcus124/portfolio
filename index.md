@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Nati Marcus
+Data Scientist
 
 You can use the [editor on GitHub](https://github.com/Nmarcus124/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
