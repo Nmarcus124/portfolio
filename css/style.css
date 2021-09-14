@@ -335,6 +335,10 @@ a:focus {
     margin-right: 10px;
 }
 
+.hero .hero-btn .btn:nth-child(2) {
+    margin-right: 10px;
+}
+
 @media (max-width: 991.98px) {
     .hero {
         padding-top: 60px;
